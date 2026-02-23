@@ -32,11 +32,12 @@
   <a href="https://github.com/Abhi45765">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://LinkedIn.com/abhishek-r2">
+  &nbsp;
+  <a href="https://www.linkedin.com/in/abhishek-r2">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
-- GitHub: https://github.com/Abhi45765
-- LinkedIn: https://LinkedIn.com/abhishek-r2
+<!-- Removed direct markdown links and now using only clickable badge buttons above -->
+
 - Email: Available on request
