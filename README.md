@@ -6,7 +6,7 @@
 <!-- Typing SVG by Abhi45765 - https://github.com/Abhi45765/readme-typing-svg -->
 <p align="center">
 <!--   <a href="https://github.com/Abhi45765/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=551a8b&width=380&height=45&lines=Learning+new+technologies;Nice+To+Meet+You+...&center=true"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=551a8b&width=380&height=45&lines=Learning+new+technologies;Nice+To+Meet+You+...&center=true"></a>
 </p>
 
 ## ⚡️ About Me
@@ -26,7 +26,17 @@
 <img src="https://img.shields.io/badge/Legion-555555.svg?&style=flat-square&logo=Lenovo&logoColor=E2231A"> <img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=259645"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Pycharm-555555.svg?&style=flat-square&logo=Pycharm&logoColor=F37626"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760">
 
 
-How to reach me
-GitHub: https://github.com/Abhi45765
-LinkedIn: https://LinkedIn.com/abhishek-r2
-Email: Available on request
+## 📫 How to reach me
+
+<p align="center">
+  <a href="https://github.com/Abhi45765">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://LinkedIn.com/abhishek-r2">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+- GitHub: https://github.com/Abhi45765
+- LinkedIn: https://LinkedIn.com/abhishek-r2
+- Email: Available on request
